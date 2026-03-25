@@ -1,6 +1,7 @@
 # Morning Newspaper
 
 ## March 2026
+- [artificial datasets with pointblank](https://posit.co/blog/building-realistic-fake-datasets-with-pointblank)
 - [Docker, and Python in Docker](https://docs.docker.com/guides/python/containerize/)
 - [SQLite and database architecture](https://www.geeksforgeeks.org/python/introduction-to-sqlite-in-python/)
 - [pip freeze](https://pip.pypa.io/en/stable/cli/pip_freeze/)
