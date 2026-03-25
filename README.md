@@ -2,6 +2,7 @@
 
 ## Front-page - March 2026
 - [artificial datasets with pointblank](https://posit.co/blog/building-realistic-fake-datasets-with-pointblank)
+- [synthetic datasets in python from kdnuggets](https://www.kdnuggets.com/5-useful-python-scripts-for-synthetic-data-generation)
 - [From the Ground Up: Prospect Research for Nonprofits](https://www.amazon.com/Ground-Nonprofits-Nonprofit-Fundraising-Resources/dp/B0GH6S369V/ref=sr_1_1?crid=3V4NCDLUSOAG&dib=eyJ2IjoiMSJ9.4fv7dhvbT-S3I1cGoa4Qc66OIdgrRwuBNXOGU7hnlg6E7xDC9ZrMhEUjcpSgvw7EQL1M9sg0PdRGUyiIXv-y9s7AyvNMjfc5X1KlN_fkW-A.mjvOJxDg3bWRtdXv-UphcrJyi-ukaq_9IM-MM6nIXoA&dib_tag=se&keywords=from+the+ground+up+prospect+research&qid=1774458140&sprefix=from+the+ground+up+prospect+research%2Caps%2C198&sr=8-1)
 - [Docker, and Python in Docker](https://docs.docker.com/guides/python/containerize/)
 - [SQLite and database architecture](https://www.geeksforgeeks.org/python/introduction-to-sqlite-in-python/)
