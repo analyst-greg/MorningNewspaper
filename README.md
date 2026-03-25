@@ -16,5 +16,6 @@
 - United Nations, Office of the High Commissioner for Human Rights, and Human Rights Center at the University of California, Berkeley, School of Law. Berkeley Protocol on Digital Open Source Investigations: A Practical Guide on the Effective Use of Digital Open Source Information in Investigating Violations of International Criminal, Human Rights, and Humanitarian Law. New York and Geneva: United Nations, 2022. ISBN: 978-92-1-154233-2
 - [CEH repo](https://github.com/deanbushmiller/CEH-bootcamp)
 - [CISSP bootcamp](https://github.com/deanbushmiller/CISSP-Bootcamp)
+- [agentic engineering](https://posit.co/blog/the-prolific-output-of-wes-mckinney-in-the-age-of-agentic-engineering/)
 
 ## Back issues
